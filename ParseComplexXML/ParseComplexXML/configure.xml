@@ -1,0 +1,34 @@
+<ConfigureInformation>
+  <WindInfo>192 108</WindInfo>
+  <FOVX>270</FOVX>
+
+  <!--<ChangeFrame>
+    <FrameNum>10000</FrameNum>
+    <Change>FALSE</Change>
+  </ChangeFrame>-->
+
+  <LoadVideoIndex>
+    <PCInfo>
+      <HostID>1</HostID>
+      <FrontFaceVideoIndex> 1 2 3 4 </FrontFaceVideoIndex>
+      <BackFaceVideoIndex> 1 2 3 4 5 </BackFaceVideoIndex>
+      <LeftFaceVideoIndex> 1 2 3 4 5 </LeftFaceVideoIndex>
+      <RightFaceVideoIndex> 1 2 3 4 5 </RightFaceVideoIndex>
+      <TopFaceVideoIndex> 1 2 3 4 5 </TopFaceVideoIndex>
+      <BottomFaceVideoIndex> 1 2 3 4 5 </BottomFaceVideoIndex>
+    </PCInfo>
+
+    <PCInfo>
+      <HostID>2</HostID>
+      <FrontFaceVideoIndex> 1 5 </FrontFaceVideoIndex>
+      <BackFaceVideoIndex> 1 5  </BackFaceVideoIndex>
+      <LeftFaceVideoIndex> 1 5  </LeftFaceVideoIndex>
+      <RightFaceVideoIndex> 1 3 4 5  </RightFaceVideoIndex>
+      <TopFaceVideoIndex> 1 2 4 5  </TopFaceVideoIndex>
+      <BottomFaceVideoIndex> 1 2 3 4 5  </BottomFaceVideoIndex>
+    </PCInfo>
+  </LoadVideoIndex>
+
+</ConfigureInformation>
+
+
